@@ -1,4 +1,3 @@
-JavaScript
 import React, { useState, useRef, useEffect } from 'react';
 
 const INITIAL_SUB_MATCHES = [
